@@ -20,6 +20,7 @@ const MealItemForm = (props) => {
     }
 
     props.onAddToCart(enteredAmountNumber)
+    inputAmountRef.current.value = 1;
   }
 
   return (
