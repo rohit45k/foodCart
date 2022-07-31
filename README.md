@@ -1,4 +1,4 @@
-# FoodCart AAP
+# FoodCart APP
 Single Page React FoodCart App
 This app provides the basic functionalities like add items to the cart just like a modern E-commerce cart.
 
