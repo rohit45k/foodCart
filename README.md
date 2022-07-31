@@ -2,7 +2,7 @@
 Single Page React FoodCart App
 This app provides the basic functionalities like add items to the cart just like a modern E-commerce cart.
 
-## Demo: https://quotes-ef348.web.app/quotes 
+## Demo: https://cartfood.netlify.app/
 
 ### To run this application on your local machine 
 Pre-requisite (Node installed on the system)
